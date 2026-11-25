@@ -1,0 +1,15 @@
+student_id,name,department,gender,maths,science,english,attendance_pct,city,total_marks,percentage,result,grade
+101,Asha Rao,CSE,Female,85.0,90.0,88.0,95,Delhi,263.0,87.66666666666667,Pass,A
+102,Kiran Das,ECE,Male,78.0,82.0,80.0,88,Mumbai,240.0,80.0,Pass,A
+103,Neha Singh,CSE,Female,92.0,89.0,95.0,92,Delhi,276.0,92.0,Pass,A+
+104,Meena Iyer,MECH,Female,45.0,55.0,60.0,60,Chennai,160.0,53.333333333333336,Pass,D
+105,Sameer Khan,ECE,Male,65.0,70.0,68.0,74,Delhi,203.0,67.66666666666667,Pass,C
+106,Rahul Verma,CSE,Male,90.0,85.0,88.0,96,Mumbai,263.0,87.66666666666667,Pass,A
+107,Priya Sharma,MECH,Female,72.0,75.0,80.0,85,Jaipur,227.0,75.66666666666667,Pass,B
+108,Arjun Patel,ECE,Male,74.5,68.0,72.0,78,Ahmedabad,214.5,71.5,Pass,B
+109,Simran Kaur,CSE,Female,74.5,88.0,91.0,89,Delhi,253.5,84.5,Pass,A
+110,Rohan Mehta,MECH,Male,55.0,60.0,58.0,82,Mumbai,173.0,57.666666666666664,Pass,D
+111,Ananya Roy,CSE,Female,88.0,92.0,90.0,97,,270.0,90.0,Pass,A+
+112,Vikram Joshi,ECE,Male,67.0,77.76923076923077,75.0,80,Jaipur,219.76923076923077,73.25641025641026,Pass,B
+113,Divya Nair,MECH,Female,81.0,84.0,79.0,91,Chennai,244.0,81.33333333333333,Pass,A
+114,Aman Gupta,Unknown,Male,76.0,73.0,70.0,86,Delhi,219.0,73.0,Pass,B

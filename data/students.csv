@@ -1,0 +1,16 @@
+student_id,name,department,gender,maths,science,english,attendance_pct,city
+101,Asha Rao,CSE,Female,85.0,90.0,88,95,Delhi
+102,Kiran Das,ECE,Male,78.0,82.0,80,88,Mumbai
+103,Neha Singh,CSE,Female,92.0,89.0,95,92,Delhi
+101,Asha Rao,CSE,Female,85.0,90.0,88,95,Delhi
+104,Meena Iyer,MECH,Female,45.0,55.0,60,60,Chennai
+105,Sameer Khan,ECE,Male,65.0,70.0,68,74,Delhi
+106,Rahul Verma,CSE,Male,90.0,85.0,88,96,Mumbai
+107,Priya Sharma,MECH,Female,72.0,75.0,80,85,Jaipur
+108,Arjun Patel,ECE,Male,,68.0,72,78,Ahmedabad
+109,Simran Kaur,CSE,Female,105.0,88.0,91,89,Delhi
+110,Rohan Mehta,MECH,Male,55.0,60.0,58,82,Mumbai
+111,Ananya Roy,CSE,Female,88.0,92.0,90,97,
+112,Vikram Joshi,ECE,Male,67.0,,75,80,Jaipur
+113,Divya Nair,MECH,Female,81.0,84.0,79,91,Chennai
+114,Aman Gupta,,Male,76.0,73.0,70,86,Delhi
